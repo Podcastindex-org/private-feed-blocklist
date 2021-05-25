@@ -7,3 +7,4 @@ NPR Private:           /feeds\.npr\.org.*uid=/i
 Patreon Subscribers:   /patreon\.com.*auth=/i
 Slate Plus:            /my\.slate\.com\/subscriptions\//i
 Memberful:             /memberfulcontent\.com.*auth\=/i
+Substack:              /substack\.com.*\/private\/.*\.rss/i
