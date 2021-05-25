@@ -1,8 +1,9 @@
-Stratechery Private - /rss\.stratechery\.com/i
-Bing synthetic feeds - /bing\.com/search/i
-Listenlater - /listenlater\.fm/i
-Spotify Scraper - /spotifeed\.timdorr/i
-Urls with Basic Auth - /(.+?\/\/)(.+?):(.+?)@(.+)/i
-NPR Private - /feeds\.npr\.org.*uid=/i
-Patreon Subscribers - /patreon\.com.*auth=/i
-Slate Plus - /my\.slate\.com\/subscriptions\//i
+Stratechery Private:   /rss\.stratechery\.com/i
+Bing synthetic feeds:  /bing\.com/search/i
+Listenlater:           /listenlater\.fm/i
+Spotify Scraper:       /spotifeed\.timdorr/i
+Urls with Basic Auth:  /(.+?\/\/)(.+?):(.+?)@(.+)/i
+NPR Private:           /feeds\.npr\.org.*uid=/i
+Patreon Subscribers:   /patreon\.com.*auth=/i
+Slate Plus:            /my\.slate\.com\/subscriptions\//i
+Memberful:             /memberfulcontent\.com.*auth\=/i
