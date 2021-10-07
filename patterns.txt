@@ -11,3 +11,4 @@ Substack:              /substack\.com.*\/private\/.*\.rss/i
 Supercast:             /supercast\.(tech|com)\/feeds\//i
 Captivate:             /private\.captivate\.fm/i
 Supporting Cast:       /supportingcast\.(fm|co|cc)\/content\//i
+Castos:                /\X*\.castos\.com\/feed\?uuid=/i
