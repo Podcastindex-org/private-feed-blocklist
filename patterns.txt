@@ -13,3 +13,4 @@ Captivate:             /private\.captivate\.fm/i
 Supporting Cast:       /supportingcast\.(fm|co|cc)\/content\//i
 Castos:                /\X*\.castos\.com\/feed\?uuid=/i
 BabylonBee:            /babylonbee\.com\/premium\-feed.*/i
+RedCircle:             /(api.podcache.net\/shows|feeds\.redcircle\.com)\/[a-z0-9\-]*\/pf\/.*/i
