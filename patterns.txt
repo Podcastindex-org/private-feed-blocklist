@@ -16,3 +16,4 @@ BabylonBee:            /babylonbee\.com\/premium\-feed.*/i
 RedCircle:             /(api.podcache.net\/shows|feeds\.redcircle\.com)\/[a-z0-9\-]*\/pf\/.*/i
 HuffDuffer:            /\.huffduffer.com/i
 Podcast.co:            /feed\.pod\.co\/[a-zA-Z0-9-]{36}\/[a-zA-A0-9-]{36}/i
+ATP:                   /atp\.fm\/rss\/[a-zA-Z0-9]*/i
