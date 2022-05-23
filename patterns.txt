@@ -18,3 +18,4 @@ HuffDuffer:            /\.huffduffer.com/i
 Podcast.co:            /feed\.pod\.co\/[a-zA-Z0-9-]{36}\/[a-zA-Z0-9-]{36}/i
 ATP:                   /atp\.fm\/rss\/[a-zA-Z0-9]*/i
 Mysterious Universe:   /mysteriousuniverse\.org/feed/mu.*/i
+Sam Harris:            /samharris.org/feed/\?token\=[a-zA-Z0-9-]{36}/i
