@@ -20,5 +20,6 @@ ATP:                   /atp\.fm\/rss\/[a-zA-Z0-9]*/i
 Mysterious Universe:   /mysteriousuniverse\.org/feed/mu.*/i
 Sam Harris:            /samharris.org/feed/\?token\=[a-zA-Z0-9-]{36}/i
 Acast Access:          /access\.acast\.com\/[^\/]+\/(?!default).+/i
-Anchor:                /anchor\.fm\/s\/\.*\/podcast\/auth\/
-Anchor:                /anchor\.fm\/s\/.*\/podcast\/private.*token\=
+Anchor:                /anchor\.fm\/s\/\.*\/podcast\/auth\//i
+Anchor:                /anchor\.fm\/s\/.*\/podcast\/private.*token\=/i
+Transistor:            /subscribers\.transistor\.fm\/.*/i
